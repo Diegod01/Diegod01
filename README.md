@@ -10,7 +10,7 @@ I I specialize in Machine Learning applied in the business    __________________
 # *Visualizations Proyects:*
 # [Project 1: [SuperMarkets__Visualization](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/SuperMarkets__Visualization.ipynb)
 
-# [Project 2: [Uver drives visualization](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Uber.ipynb)
+# [Project 2: [Uver drives visualization](https://github.com/Diegod01/PortafolioBriefcase/blob/n/Uber.ipynb)
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
@@ -22,7 +22,7 @@ I I specialize in Machine Learning applied in the business    __________________
 # *Prediction Proyects:*
 # [Project 1: [Stock Prediction](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Predicci%C3%B3n_acciones.ipynb)
 
-# [Project 2: [Tesla stock prediction] (https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Predicci%C3%B3n_acciones2.ipynb)
+# [Project 2: [Tesla stock prediction](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Predicci%C3%B3n_acciones2.ipynb)
 
 ⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀
