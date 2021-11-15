@@ -16,7 +16,7 @@ I I specialize in Machine Learning applied in the business    __________________
 
 
 
-# Prediction Proyects:
+## Prediction Proyects:
 
 
 
