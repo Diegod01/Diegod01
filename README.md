@@ -24,6 +24,8 @@ I I specialize in Machine Learning applied in the business    __________________
 
 # [Project 2: [Tesla stock prediction](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Predicci%C3%B3n_acciones2.ipynb)
 
+# Project 3: 
+
 ⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
