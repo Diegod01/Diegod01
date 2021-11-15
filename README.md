@@ -35,6 +35,7 @@ I I specialize in Machine Learning applied in the business    __________________
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
 # *Time Series Proyects*
+# Project 1: [Introduction to time series](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Introducci%C3%B3_series_de_tiempo.ipynb)
 
 
 
