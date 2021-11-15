@@ -11,3 +11,12 @@ I I specialize in Machine Learning applied in the business    __________________
 # [Project 1: [SuperMarkets__Visualization](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/SuperMarkets__Visualization.ipynb)
 
 # [Project 2: [Uver drives visualization](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Uber.ipynb)
+
+
+
+
+
+# Prediction Proyects:
+
+
+
