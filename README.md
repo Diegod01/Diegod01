@@ -22,7 +22,9 @@ I I specialize in Machine Learning applied in the business    __________________
 # *Prediction Proyects:*
 # [Project 1: [Stock Prediction](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Predicci%C3%B3n_acciones.ipynb)
 
-⠀⠀⠀⠀⠀⠀⠀⠀
+# [Project 2: [
+
+⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
 
