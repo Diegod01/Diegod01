@@ -13,9 +13,12 @@ I I specialize in Machine Learning applied in the business    __________________
 # [Project 2: [Uver drives visualization](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Uber.ipynb)
 
 
+⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀
 
-
-
+⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀
 # *Prediction Proyects:*
 
 
