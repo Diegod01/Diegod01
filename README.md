@@ -27,7 +27,7 @@ I I specialize in Machine Learning applied in the business    __________________
 
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
-# *Time Series*
+# *Time Series Proyects*
 
 
 
