@@ -40,6 +40,6 @@ I I specialize in Machine Learning applied in the business    __________________
 # Project 2: [Search Analysis](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/An%C3%A1lisis_B%C3%BAsquedas.ipynb)
 
 
-#*Consumer feedback proyects:*
+# *Consumer feedback proyects:*
 # Project 1:
 
