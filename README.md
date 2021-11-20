@@ -52,3 +52,10 @@ I I specialize in Machine Learning applied in the business    __________________
 # *Consumer feedback proyects:*
 # Project 1: [Feels text detector](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Sentimientos.ipynb)
 
+⠀⠀⠀⠀
+
+⠀⠀⠀⠀
+⠀⠀⠀⠀
+# *Segmentation consumers proyects:*
+# Project 1: [Segmentation income and spend](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Segmentaci%C3%B3n.ipynb)
+
