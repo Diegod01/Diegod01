@@ -59,3 +59,4 @@ I I specialize in Machine Learning applied in the business    __________________
 # *Segmentation consumers proyects:*
 # Project 1: [Segmentation income and spend](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Segmentaci%C3%B3n.ipynb)
 
+Project 2: [Customer Preferences](https://github.com/Diegod01/Portafolio-Briefcase/blob/main/Delivery.ipynb)
