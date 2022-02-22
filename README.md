@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://www.dreamstime.com/data-science-banner-concept-vector-illustration-outline-design-image161604335)]
+[![MasterHead] https://www.dreamstime.com/data-science-banner-concept-vector-illustration-outline-design-image161604335
 
 # Hello, to access the project portfolio go to this link:
 # https://github.com/Diegod01/Portafolio-2.0
