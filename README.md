@@ -7,7 +7,12 @@
 # To access the project portfolio go to this link:
 # https://github.com/Diegod01/Portafolio-2.0
 
-# Contact me: 
+
+#- 📫 How to contact me:**
+- My Gmail 📨 **diegodarosa2003@gmail.com**
+- My LinkedIn 👩‍💻 **www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)**
+- My Phone 📞 **093663701**
+
 
 # Blog
 
@@ -21,15 +26,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=degod01&label=Profile%20views&color=0e75b6&style=flat" alt="degod01" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working un **Data Science Books**
 
 - 🤝 I’m looking for help with **Data Science books**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diegod01/Portafolio-2.0](https://github.com/Diegod01/Portafolio-2.0)
 
 - 📝 I regularly write articles on [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
-
-- 💬 Ask me about **Python, R, Pandas**
 
 - 📫 How to reach me **diegodarosa2003@gmail.com**
 
