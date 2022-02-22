@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegod01_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegod_icons=true)
 
 ⠀⠀⠀
 
