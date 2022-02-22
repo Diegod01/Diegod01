@@ -1,8 +1,13 @@
+[![MasterHead]
+(https://www.dreamstime.com/data-science-banner-concept-vector-illustration-outline-design-image161604335)]
+
 # Hello, to access the project portfolio go to this link:
 # https://github.com/Diegod01/Portafolio-2.0
 
-# Hello! My name is Diego, i are a statatician and data Scientist
+# About Me:
+# Hello! My name is Diego, i are a statatician and Data Scientist
 
+# Contact me: 
 
 
 ⠀⠀⠀
