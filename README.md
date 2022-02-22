@@ -1,14 +1,17 @@
 [![data-science-banner-concept-vector-illustration-outline-design-161604335.jpg](https://i.postimg.cc/4xvMRx4J/data-science-banner-concept-vector-illustration-outline-design-161604335.jpg)](https://postimg.cc/4YdwzZhM)
 
 
-
-# Hello, to access the project portfolio go to this link:
-# https://github.com/Diegod01/Portafolio-2.0
-
 # About Me:
 # Hello! My name is Diego, i are a statatician and Data Scientist
 
+# To access the project portfolio go to this link:
+# https://github.com/Diegod01/Portafolio-2.0
+
 # Contact me: 
+
+# Blog
+
+# Books
 
 
 ⠀⠀⠀
