@@ -8,7 +8,7 @@
 # https://github.com/Diegod01/Portafolio-2.0
 
 
-#- 📫 How to contact me:**
+# **How to contact me:**
 - My Gmail 📨 **diegodarosa2003@gmail.com**
 - My LinkedIn 👩‍💻 **www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)**
 - My Phone 📞 **093663701**
