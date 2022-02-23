@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, My name is Diego</h1>
-<h3 align="center">A statistics student and Data Scientist</h3>
+   <h1 align="center">Hi 👋, My name is Diego</h1>
+   <h3 align="center">A statistics student and Data Scientist</h3>
 
-aaa [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
+[![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
 
 # <h1 align="center"> To access to my project portfolio go to this link:</h1>
