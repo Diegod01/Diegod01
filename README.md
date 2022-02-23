@@ -1,5 +1,4 @@
-
-<h1 align="center">[![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB)</h1>
+</h1> [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) </h1>
 
 
 <h1 align="center">Hi 👋, My name is Diego</h1>
