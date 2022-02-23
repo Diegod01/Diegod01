@@ -19,8 +19,9 @@
 
 
 
-[![mail.gif](https://i.postimg.cc/Gtm3t2Rg/mail.gif)](https://postimg.cc/vgCwSGc5)
+
 # <h1 align="center"> **How to contact me:**</h1>
+[![mail.gif](https://i.postimg.cc/Gtm3t2Rg/mail.gif)](https://postimg.cc/vgCwSGc5)
 # <h3 align="center">- My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
 # <h3 align="center">- My LinkedIn 👩‍💻 **www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)**</h3>
 # <h3 align="center">- My Phone 📞 **093663701**</h3>
