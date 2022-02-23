@@ -5,16 +5,16 @@
 
  
 
-
 <h1 align="center">Hi 👋, My name is Diego</h1>
 <h3 align="center">A statistics student and Data Scientist</h3>
 
-
+[![Portfolio.gif](https://i.postimg.cc/FRm9qdXY/Portfolio.gif)](https://postimg.cc/R3s5J0Fm)
 # <h1 align="center"> To access to my project portfolio go to this link:</h1>
 # <h3 align="center"> https://github.com/Diegod01/Portafolio-2.0</h3>
 
 
-# # <h1 align="center"> **How to contact me:**</h1>
+[![mail.gif](https://i.postimg.cc/Gtm3t2Rg/mail.gif)](https://postimg.cc/vgCwSGc5)
+# <h1 align="center"> **How to contact me:**</h1>
 # <h3 align="center">- My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
 # <h3 align="center">- My LinkedIn 👩‍💻 **www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)**</h3>
 # <h3 align="center">- My Phone 📞 **093663701**</h3>
