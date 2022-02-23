@@ -1,4 +1,5 @@
-[![data-science-banner-concept-vector-illustration-outline-design-161604335.jpg](https://i.postimg.cc/4xvMRx4J/data-science-banner-concept-vector-illustration-outline-design-161604335.jpg)](https://postimg.cc/4YdwzZhM)
+
+[![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB)
 
 
 ## About Me:
