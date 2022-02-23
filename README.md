@@ -2,11 +2,12 @@
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB)
 
 
-## About Me:
-# Hello! My name is Diego, i are a statatician and Data Scientist
+<h1 align="center">Hi 👋, My name is Diego</h1>
+<h3 align="center">A statistics student and Data Scientist</h3>
 
-# To access the project portfolio go to this link:
-# https://github.com/Diegod01/Portafolio-2.0
+
+# <h1 align="center"> To access the project portfolio go to this link:
+# <h3 align="center"> https://github.com/Diegod01/Portafolio-2.0
 
 
 # **How to contact me:**
