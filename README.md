@@ -30,27 +30,28 @@
 ## <h3 align="center">- My LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
 ## <h3 align="center">- My Phone 📞 **093663701**</h3>
 
-
+⠀⠀⠀
+⠀⠀⠀
+⠀⠀⠀
+⠀⠀⠀
+⠀⠀⠀
 
 # Blog
 ## - 📝 I regularly write articles on [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
 
+⠀⠀⠀
+⠀⠀⠀
+
+
+⠀⠀⠀⠀⠀⠀
+⠀⠀⠀
 
 
 
 # Books
-
-
-⠀⠀⠀
-
-<h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A statistics student and Data Scientist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=degod01&label=Profile%20views&color=0e75b6&style=flat" alt="degod01" /> </p>
-
 - 🌱 I’m currently working un **Data Science Books**
 
-- 🤝 I’m looking for help with **Data Science books**
+- 🤝 I’m looking for help with **Open source proyects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diegod01/Portafolio-2.0](https://github.com/Diegod01/Portafolio-2.0)
 
