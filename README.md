@@ -23,7 +23,7 @@
 
 
 
-# <h1 align="center"> **How to contact me:**</h1>
+# <h1 align="center"> **How contact me:**</h1>
 [![IMG-20220224-WA0004.jpg](https://i.postimg.cc/RVfvGQ5M/IMG-20220224-WA0004.jpg)](https://postimg.cc/QH8Ld7dP)
 
 ## <h3 align="center">- My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
