@@ -2,6 +2,8 @@
    <h1 align="center">Hi 👋, My name is Diego</h1>
    <h3 align="center">A statistics student and Data Scientist</h3>
 
+### The spanish version in this link: https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md
+
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
 
@@ -22,6 +24,7 @@
 
 
 # <h1 align="center"> **How to contact me:**</h1>
+[![IMG-20220224-WA0004.jpg](https://i.postimg.cc/RVfvGQ5M/IMG-20220224-WA0004.jpg)](https://postimg.cc/QH8Ld7dP)
 
 # <h3 align="center">- My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
 # <h3 align="center">- My LinkedIn 👩‍💻 **www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)**</h3>
@@ -30,6 +33,10 @@
 
 
 # Blog
+## - 📝 I regularly write articles on [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
+
+
+
 
 # Books
 
