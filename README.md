@@ -81,4 +81,4 @@
 
 ### - Python, Pandas, Sklearn, R, SQL, Grafana, OpenCV
 
-- 🌱   I are Currently learning Linux, Rust, Solidity, Math & Philosophy.
+- 🌱   I are Currently learning TensorFlow, Keras, SAP
