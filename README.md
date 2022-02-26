@@ -49,7 +49,10 @@
 
 
 # Books
-- 🌱 I’m currently working un **Data Science Books**
+
+- ##  🌱  I always liked writing to help myself and others to learn about technology, I have books and guides on how to apply data science in various fields, and in my favorite camp, in finances
+- ## 📖 Buy the books in payhip.com/DiegoDaRosa
+
 
 - 🤝 I’m looking for help with **Open source proyects**
 
