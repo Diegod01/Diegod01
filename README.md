@@ -46,6 +46,13 @@
 ⠀⠀⠀
 
 
+⠀⠀⠀⠀⠀⠀
+
+
+
+⠀⠀⠀⠀⠀⠀
+
+
 
 # Books
 ## [![3041c0fa5b6c28aed5e31f4b86803c81.webp](https://i.postimg.cc/2SbztRdM/3041c0fa5b6c28aed5e31f4b86803c81.webp)](https://postimg.cc/zyNZLQcF)
@@ -55,6 +62,17 @@
 
 
 
+
+
+
+
+⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+⠀⠀⠀⠀⠀⠀
 
 
 <h3 align="left">I Know this languages and Tools:</h3>
