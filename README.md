@@ -26,9 +26,9 @@
 # <h1 align="center"> **How contact me:**</h1>
 [![IMG-20220224-WA0004.jpg](https://i.postimg.cc/RVfvGQ5M/IMG-20220224-WA0004.jpg)](https://postimg.cc/QH8Ld7dP)
 
-## <h3 align="center">- ## My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
-## <h3 align="center">- ## 📄 Know about my experiences in my LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
-## <h3 align="center">- ## My Phone 📞 **093663701**</h3>
+# <h3 align="center">-  My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
+# <h3 align="center">- 📄 Know about my experiences in my LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
+# <h3 align="center">- My Phone 📞 **093663701**</h3>
 
 ⠀⠀⠀
 ⠀⠀⠀
