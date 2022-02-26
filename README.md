@@ -37,7 +37,7 @@
 ⠀⠀⠀
 
 # Blog
-## - 📝 I regularly write articles on [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
+## - 📝 I regularly write articles in my blog [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
 ## [![Marche-AIWriting.webp](https://i.postimg.cc/DZVm6ftx/Marche-AIWriting.webp)](https://postimg.cc/DWg2yhfG)
 ⠀⠀⠀
 ⠀⠀⠀
