@@ -7,7 +7,7 @@
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
 
-# <h1 align="center"> To access to my project portfolio go to this link:</h1>
+# <h1 align="center"> To access to my project portfolio 👨‍💻 go to this link:</h1>
 # <h1 align="center"> https://github.com/Diegod01/Portafolio-2.0</h3>
 
 [![Portfolio.gif](https://i.postimg.cc/FRm9qdXY/Portfolio.gif)](https://postimg.cc/R3s5J0Fm)
@@ -27,10 +27,9 @@
 [![IMG-20220224-WA0004.jpg](https://i.postimg.cc/RVfvGQ5M/IMG-20220224-WA0004.jpg)](https://postimg.cc/QH8Ld7dP)
 
 ## <h3 align="center">- My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
-## <h3 align="center">- My LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
+## <h3 align="center">- 📄 Know about my experiences in my LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
 ## <h3 align="center">- My Phone 📞 **093663701**</h3>
 
-⠀⠀⠀
 ⠀⠀⠀
 ⠀⠀⠀
 ⠀⠀⠀
@@ -49,20 +48,14 @@
 
 
 # Books
-
+## [![3041c0fa5b6c28aed5e31f4b86803c81.webp](https://i.postimg.cc/2SbztRdM/3041c0fa5b6c28aed5e31f4b86803c81.webp)](https://postimg.cc/zyNZLQcF)
 - ##  🌱  I always liked writing to help myself and others to learn about technology, I have books and guides on how to apply data science in various fields, and in my favorite camp, in finances
 - ## 📖 Buy the books in payhip.com/DiegoDaRosa
 
 
-- 🤝 I’m looking for help with **Open source proyects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Diegod01/Portafolio-2.0](https://github.com/Diegod01/Portafolio-2.0)
 
-- 📝 I regularly write articles on [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
 
-- 📫 How to reach me **diegodarosa2003@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/diego-agustín-da-rosa-a49641222](www.linkedin.com/in/diego-agustín-da-rosa-a49641222)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
