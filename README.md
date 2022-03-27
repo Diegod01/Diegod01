@@ -9,7 +9,6 @@
 
 
 # <h1 align="center"> To access to my project portfolio 👨‍💻 go to this link [click](https://github.com/Diegod01/Portafolio-2.0):</h1>
-# <h1 align="center"> https://github.com/Diegod01/Portafolio-2.0</h3>
 
 [![Portfolio.gif](https://i.postimg.cc/FRm9qdXY/Portfolio.gif)](https://postimg.cc/R3s5J0Fm)
 
