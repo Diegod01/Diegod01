@@ -2,7 +2,7 @@
    <h1 align="center">Hi 👋, my name is Diego</h1>
    <h3 align="center">A statistics student  🎓 and Data Scientist</h3>
 
-### The spanish version in this link: https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md
+### [The spanish version](https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md)
 
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
