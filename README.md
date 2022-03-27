@@ -1,8 +1,9 @@
 ### [The spanish version](https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md)
 
 
-   <h1 align="center">Hi 👋, my name is Diego</h1>
-   <h3 align="center">A statistics student  🎓 and Data Scientist</h3>
+   <h1 align="center"> Hi 👋, my name is Diego</h1>
+   <h3 align="center"> A statistics student  🎓 and Data Scientist</h3>
+   <H3 algún="center"> I are interested in apply Data Science in Finances 🏛️
 
 
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
