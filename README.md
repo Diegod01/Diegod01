@@ -8,7 +8,7 @@
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
 
-# <h1 align="center"> To access to my project portfolio 👨‍💻 go to this link [click](https://github.com/Diegod01/Portafolio-2.0):</h1>
+# <h1 align="center"> To access to my project portfolio 👨‍💻 [click](https://github.com/Diegod01/Portafolio-2.0):</h1>
 
 [![Portfolio.gif](https://i.postimg.cc/FRm9qdXY/Portfolio.gif)](https://postimg.cc/R3s5J0Fm)
 
@@ -27,17 +27,14 @@
 [![IMG-20220224-WA0004.jpg](https://i.postimg.cc/RVfvGQ5M/IMG-20220224-WA0004.jpg)](https://postimg.cc/QH8Ld7dP)
 
 # <h3 align="center">-  My Gmail 📨 **diegodarosa2003@gmail.com**</h3>
-# <h3 align="center">- 📄 Know about my experiences in my LinkedIn 👩‍💻 **https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222**
 # <h3 align="center">- My Phone 📞 **093663701**</h3>
-
+# <h3 align="center">- [📄 Know about my experiences in my LinkedIn 👩‍💻](https://www.linkedin.com/in/diego-agust%C3%ADn-da-rosa-a49641222)
+# <h3 align="center">- [🎥 My Youtube channel where i make data Science tutorials](https://youtube.com/channel/UC3Zf05Ytn_GZvMzoIMF3hCw)
+# <h3 align="center"> [ 📝 My Blog, i write about Data Science and AI](https://github.com/Diegod01/My-Blog)
 ⠀⠀⠀
 ⠀⠀⠀
 ⠀⠀⠀
 ⠀⠀⠀
-
-#  <h1 align="center"> **Blog**</h1>
-## - 📝 I regularly write articles in my blog [https://github.com/Diegod01/My-Blog](https://github.com/Diegod01/My-Blog)
-## [![Marche-AIWriting.webp](https://i.postimg.cc/DZVm6ftx/Marche-AIWriting.webp)](https://postimg.cc/DWg2yhfG)
 ⠀⠀⠀
 ⠀⠀⠀
 
