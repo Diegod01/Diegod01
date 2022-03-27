@@ -1,13 +1,14 @@
+### [The spanish version](https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md)
+
 
    <h1 align="center">Hi 👋, my name is Diego</h1>
    <h3 align="center">A statistics student  🎓 and Data Scientist</h3>
 
-### [The spanish version](https://github.com/Diegod01/My-Blog/blob/main/Portfolio%20spanish%20version.md)
 
 [![areachart.gif](https://i.postimg.cc/0QX3ZkMF/areachart.gif)](https://postimg.cc/cgYXLNcB) 
 
 
-# <h1 align="center"> To access to my project portfolio 👨‍💻 go to this link:</h1>
+# <h1 align="center"> To access to my project portfolio 👨‍💻 go to this link [click](https://github.com/Diegod01/Portafolio-2.0):</h1>
 # <h1 align="center"> https://github.com/Diegod01/Portafolio-2.0</h3>
 
 [![Portfolio.gif](https://i.postimg.cc/FRm9qdXY/Portfolio.gif)](https://postimg.cc/R3s5J0Fm)
